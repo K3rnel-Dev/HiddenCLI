@@ -1,0 +1,5 @@
+prettytable
+vidstream
+numpy
+PyAutoGUI
+colorama
