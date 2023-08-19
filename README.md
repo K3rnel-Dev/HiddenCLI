@@ -1,13 +1,13 @@
 # HiddenCLI
-![Banner](https://github.com/K3rnel-deb/HiddenCLI/blob/main/banner.jpg)
+![Banner](https://github.com/K3rnel-Dev/HiddenCLI/blob/main/banner.jpg)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 
 ### Модули которые были задействованы 💾
-![socket](https://img.shields.io/badge/socket?style=for-the-badge)
-![vidstream](https://img.shields.io/badge/vidstream-red?style=for-the-badge)
-![prettytable](https://img.shields.io/badge/prettytable-green?style=for-the-badge&logo=json)
-![colorama](https://img.shields.io/badge/colorama-blueviolet?style=for-the-badge)
-![pyautogui](https://img.shields.io/badge/PyAutoGui-green?style=for-the-badge)
+![socket](https://img.shields.io/badge/socket-red?style=for-the-badge&logo=python)
+![vidstream](https://img.shields.io/badge/vidstream-red?style=for-the-badge&logo=python)
+![prettytable](https://img.shields.io/badge/prettytable-green?style=for-the-badge&logo=python)
+![colorama](https://img.shields.io/badge/colorama-blueviolet?style=for-the-badge&logo=python)
+![pyautogui](https://img.shields.io/badge/PyAutoGui-green?style=for-the-badge&logo=python)
 
 ## Как использовать?
 - Отредактируйте файл HiddenSources\client.py на ваш локальный адрес и желаемый порт
